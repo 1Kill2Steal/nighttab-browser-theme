@@ -497,7 +497,7 @@
               },
               "type": "video",
               "image": {
-                "url": "https://cdn.discordapp.com/attachments/614790390020833280/878637746166575154/Hu_Tao_Google_Theme_3.png",
+                "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_Google_Theme_3.png",
                 "blur": 0,
                 "opacity": 100,
                 "scale": 100,
@@ -510,7 +510,7 @@
                 }
               },
               "video": {
-                "url": "https://cdn.discordapp.com/attachments/614790390020833280/879481386917068821/2021-08-23_03-50-12_2_3.mp4",
+                "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/2021-08-23_03-50-12_2_3.mp4",
                 "blur": 0,
                 "opacity": 100,
                 "scale": 100,
@@ -716,7 +716,7 @@
         },
         "type": "image",
         "image": {
-          "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146839765392568442/Hu_Tao_1206_-_1.png",
+          "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_1206_-_1.png",
           "blur": 0,
           "opacity": 100,
           "scale": 100,
@@ -729,7 +729,7 @@
           }
         },
         "video": {
-          "url": "https://cdn.discordapp.com/attachments/614790390020833280/879481386917068821/2021-08-23_03-50-12_2_3.mp4",
+          "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/2021-08-23_03-50-12_2_3.mp4",
           "blur": 0,
           "opacity": 100,
           "scale": 100,
@@ -823,7 +823,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146840732838137866/Hu_Tao_1202.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_1202.png"
             },
             "video": {
               "url": ""
@@ -905,7 +905,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146842463433138206/Hu_Tao_682_2.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_682_2.png"
             },
             "video": {
               "url": ""
@@ -936,7 +936,7 @@
                 "text": ""
               },
               "image": {
-                "url": "https://cdn.discordapp.com/attachments/614790390020833280/878605442589282344/Untitled-6.png"
+                "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Untitled-6.png"
               },
               "icon": {
                 "name": "",
@@ -987,7 +987,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146843849478643732/Hu_Tao_1228_1.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_1228_1.png"
             },
             "video": {
               "url": ""
@@ -1069,7 +1069,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146841201195098243/Hu_Tao_1147.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_1147.png"
             },
             "video": {
               "url": ""
@@ -1151,7 +1151,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146840968193118218/Hu_Tao_1102.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_1102.png"
             },
             "video": {
               "url": ""
@@ -1233,7 +1233,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146843273026093097/Hu_Tao_963.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_963.png"
             },
             "video": {
               "url": ""
@@ -1315,7 +1315,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146844611764043846/Hu_Tao_53_6.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_53_6.png"
             },
             "video": {
               "url": ""
@@ -1397,7 +1397,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146841984682692608/Hu_Tao_527_1.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_527_1.png"
             },
             "video": {
               "url": ""
@@ -1479,7 +1479,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146843407336087693/Hu_Tao_959.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_959.png"
             },
             "video": {
               "url": ""
@@ -1561,7 +1561,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146842480977924126/Hu_Tao_689.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_689.png"
             },
             "video": {
               "url": ""
@@ -1592,7 +1592,7 @@
                 "text": ""
               },
               "image": {
-                "url": "https://cdn.discordapp.com/attachments/614790390020833280/878611103012233216/Untitled-8.png"
+                "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Untitled-8.png"
               },
               "icon": {
                 "name": "",
@@ -1643,7 +1643,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146843595907805307/Hu_Tao_1048.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_1048.png"
             },
             "video": {
               "url": ""
@@ -1725,7 +1725,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://cdn.discordapp.com/attachments/614790390020833280/1146845304637882570/Hu_Tao_206.png"
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/BrowserTheme/Hu_Tao_206.png"
             },
             "video": {
               "url": ""

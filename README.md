@@ -12,7 +12,13 @@ To use it you need to install the nightTab extension.
 
 - By GitHub user: [floorshame/nightTab-Themes](https://github.com/floorshame/nightTab-Themes?tab=readme-ov-file#1-how-to-install-themes)
 
+## Themes
+
+### Hu Tao theme
+
+Amen
+![Hu Tao Theme Preview image](HuTaoTheme/Preview.png)
+
 ## What's the purpose of this repo?
 
 Discord. They recently made all attachments last 24 hours (For more information about it - [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/))
-

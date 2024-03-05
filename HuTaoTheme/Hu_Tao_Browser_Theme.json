@@ -26,7 +26,7 @@
           "justify": "center"
         }
       },
-      "breakpoint": "xl",
+      "breakpoint": "xxl",
       "favicon": ""
     },
     "header": {
@@ -1097,88 +1097,6 @@
               "show": true,
               "type": "icon",
               "letter": {
-                "text": ""
-              },
-              "image": {
-                "url": ""
-              },
-              "icon": {
-                "name": "steam",
-                "prefix": "fab",
-                "label": "Steam"
-              },
-              "shadow": {
-                "size": 50
-              },
-              "size": 30
-            },
-            "name": {
-              "show": true,
-              "text": "",
-              "size": 13
-            }
-          },
-          "url": "https://store.steampowered.com/",
-          "accent": {
-            "by": "theme",
-            "hsl": {
-              "h": 0,
-              "s": 0,
-              "l": 0
-            },
-            "rgb": {
-              "r": 0,
-              "g": 0,
-              "b": 0
-            }
-          },
-          "color": {
-            "by": "theme",
-            "hsl": {
-              "h": 359,
-              "s": 100,
-              "l": 100
-            },
-            "rgb": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            },
-            "opacity": 100
-          },
-          "background": {
-            "show": true,
-            "type": "image",
-            "opacity": 100,
-            "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_1102.png"
-            },
-            "video": {
-              "url": ""
-            }
-          },
-          "timestamp": 1629545681807,
-          "border": 0,
-          "shape": {
-            "wide": false,
-            "tall": true
-          }
-        },
-        {
-          "display": {
-            "direction": "vertical",
-            "order": "visual-name",
-            "alignment": "bottom-left",
-            "gutter": 20,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            },
-            "visual": {
-              "show": true,
-              "type": "icon",
-              "letter": {
                 "text": "R"
               },
               "image": {
@@ -1408,6 +1326,88 @@
           "shape": {
             "wide": true,
             "tall": false
+          }
+        },
+        {
+          "display": {
+            "direction": "vertical",
+            "order": "visual-name",
+            "alignment": "bottom-left",
+            "gutter": 20,
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "letter": {
+                "text": ""
+              },
+              "image": {
+                "url": ""
+              },
+              "icon": {
+                "name": "steam",
+                "prefix": "fab",
+                "label": "Steam"
+              },
+              "shadow": {
+                "size": 50
+              },
+              "size": 30
+            },
+            "name": {
+              "show": true,
+              "text": "",
+              "size": 13
+            }
+          },
+          "url": "https://store.steampowered.com/",
+          "accent": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 359,
+              "s": 100,
+              "l": 100
+            },
+            "rgb": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            },
+            "opacity": 100
+          },
+          "background": {
+            "show": true,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_1102.png"
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "timestamp": 1629545681807,
+          "border": 0,
+          "shape": {
+            "wide": false,
+            "tall": true
           }
         },
         {

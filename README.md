@@ -14,7 +14,7 @@ To use it you need to install the nightTab extension.
 
 ## Themes
 
-### Hu Tao theme
+### ![Hu Tao theme](HuTaoTheme)
 
 Amen
 ![Hu Tao Theme Preview image](HuTaoTheme/Preview.png)
